@@ -48,6 +48,6 @@ num2=50
 num3=3
 
 subtraction=num2-num1
-ans=
+ans=subtraction*num
 
 
