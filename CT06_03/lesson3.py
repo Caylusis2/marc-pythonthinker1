@@ -25,3 +25,4 @@ x= 10+20
 print(x)
 
 variable1= 18
+variable2= 21
