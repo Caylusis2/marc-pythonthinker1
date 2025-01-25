@@ -24,7 +24,7 @@ print(age)
 x= 10+20
 print(x)
 
-variable1= 18
+var1= 18
 variable2= 21
 sum= variable1+variable2
 
