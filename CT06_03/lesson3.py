@@ -29,3 +29,5 @@ var2= 21
 sum= var1+var2
 
 print(sum)
+
+var
