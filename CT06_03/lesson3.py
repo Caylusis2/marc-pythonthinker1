@@ -2,10 +2,10 @@ print("Hello from lesson 3")
 
 # create variable adam
 # create varialbe brandon
-# create variable(daniel
-# create variable (charlie)
-# create variable (average score)
-# create variable (total score)
+# create variable daniel
+# create variable charlie
+# create variable average score
+# create variable total score
 
 # 60= variable (adam)
 # 58= variable (brandon)
