@@ -14,4 +14,4 @@ print("Hello from lesson 3")
 
 # 60+58+98+79 = variable (total score)
 
-Var
+# variable (total score)
