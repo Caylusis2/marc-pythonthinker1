@@ -44,5 +44,7 @@ sum=a+b
 print(sum)
 
 num1=10
-num2
+num2=50
+num3=3
+
 
