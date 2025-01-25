@@ -32,4 +32,4 @@ print(sum)
 diff= var2-var1
 print(diff)
 
-var1
+prod=var1
