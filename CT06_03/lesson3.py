@@ -43,3 +43,6 @@ b=91
 sum=a+b
 print(sum)
 
+num1=10
+num2
+
