@@ -36,3 +36,4 @@ prod=var1*var2
 print(prod)
 
 div=var1/var2
+print(div)
