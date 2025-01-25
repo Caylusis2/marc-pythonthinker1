@@ -35,4 +35,4 @@ print(diff)
 prod=var1*var2
 print(prod)
 
-div=var
+div=var1/var2
