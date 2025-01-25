@@ -30,8 +30,8 @@ sum= var1+var2
 
 print(sum)
 
-var1= 18
-var2=21
+
+
 diff= var2-var1
 
 print(diff)
