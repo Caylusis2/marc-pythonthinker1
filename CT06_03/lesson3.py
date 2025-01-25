@@ -47,5 +47,6 @@ num1=10
 num2=50
 num3=3
 
-suntraction=n
+subtraction=num2-num1
+
 
