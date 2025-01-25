@@ -33,4 +33,4 @@ diff= var2-var1
 print(diff)
 
 prod=var1xvar2
-print(v)
+print(prod)
