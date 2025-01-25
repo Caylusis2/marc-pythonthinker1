@@ -51,4 +51,7 @@ subtraction=num2-num1
 ans=subtraction*num3
 print(ans)
 
+num1=100
+num2=4
+
 
