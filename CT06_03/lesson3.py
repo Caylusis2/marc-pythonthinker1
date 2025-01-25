@@ -16,5 +16,6 @@ print("Hello from lesson 3")
 
 # variable (total score)
 
-# create variable age
-# age= 12
+
+age= 12
+print(age)
