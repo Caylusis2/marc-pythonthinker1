@@ -21,4 +21,5 @@ age= 12
 print(age)
 
 
-x= 10
+x= 10+20
+print()
