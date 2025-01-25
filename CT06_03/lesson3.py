@@ -26,6 +26,6 @@ print(x)
 
 variable1= 18
 variable2= 21
-sum= 18+21
+sum= variable1+
 
 print(sum)
