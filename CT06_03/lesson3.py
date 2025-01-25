@@ -32,4 +32,4 @@ print(sum)
 
 var1= 18
 var2=21
-diff= var
+diff= var2-var1
