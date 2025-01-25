@@ -8,3 +8,4 @@ print("Hello from lesson 3")
 
 # 60= variable (adam)
 # 58= variable (brandon)
+# 98= variable ()
