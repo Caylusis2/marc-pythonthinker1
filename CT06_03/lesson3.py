@@ -32,5 +32,6 @@ print(sum)
 diff= var2-var1
 print(diff)
 
-prod=var1xvar2
+prod=var1*var2
 print(prod)
+
