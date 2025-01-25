@@ -38,4 +38,5 @@ print(prod)
 div=var1/var2
 print(div)
 
-a=
+a=86
+b=91
