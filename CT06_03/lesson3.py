@@ -16,4 +16,5 @@ print("Hello from lesson 3")
 
 # variable (total score)
 
-create
+# create variable age
+# 
