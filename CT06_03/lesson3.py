@@ -28,4 +28,4 @@ variable1= 18
 variable2= 21
 sum= 18+21
 
-print()
+print(sum)
