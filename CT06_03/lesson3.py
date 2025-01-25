@@ -40,4 +40,5 @@ print(div)
 
 a=86
 b=91
+sum=a+b
 
