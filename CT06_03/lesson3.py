@@ -29,7 +29,7 @@ var2= 5
 sum= var1+var2
 print(sum)
 
-diff= var2-var1
+diff= var1-var2
 print(diff)
 
 prod=var1*var2
