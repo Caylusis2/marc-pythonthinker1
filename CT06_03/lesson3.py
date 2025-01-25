@@ -5,6 +5,7 @@ print("Hello from lesson 3")
 # create variable (daniel)
 # create variable (charlie)
 # create variable (average score)
+create
 
 # 60= variable (adam)
 # 58= variable (brandon)
