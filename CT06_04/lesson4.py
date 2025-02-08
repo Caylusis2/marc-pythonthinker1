@@ -26,7 +26,7 @@ print(age)
 hobby=input("What is your favourite hobby?")
 print("I enjoy "+ hobby)
 
-dv=input
+dv=input("What is your dream vacation")
 
 
 
