@@ -11,7 +11,7 @@ green_plates= 4
 red_total=red_plates*red_price
 blue_total=blue_plates*blue_price
 green_total=green_plates*green_price
-total=red_total
+total=red_total+blue_total
 
 name=input("What is your name?")
 print(name)
