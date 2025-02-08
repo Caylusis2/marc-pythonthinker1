@@ -23,7 +23,7 @@ print(colour)
 age=input("What is your age?")
 print(age)
 
-hobby=input(What )
+hobby=input("What is your favourite hobby?")
 
 
 
