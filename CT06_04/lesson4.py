@@ -16,6 +16,8 @@ total=red_total
 name=input("What is your name?")
 print(name)
 
+cp
+
 
 
 
