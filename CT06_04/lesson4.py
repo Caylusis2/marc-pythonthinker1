@@ -24,7 +24,7 @@ age=input("What is your age?")
 print(age)
 
 hobby=input("What is your favourite hobby?")
-print("I enjoy"+ hobby)
+print("I enjoy "+ hobby)
 
 
 
