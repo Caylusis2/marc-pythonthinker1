@@ -8,6 +8,6 @@ red_plates= 3
 blue_plates= 5
 green_plates= 4
 
-red_total=(red_plates*1)+(blue_plates*2)+(green_plates*3)
+red_total=
 print(total)
 
