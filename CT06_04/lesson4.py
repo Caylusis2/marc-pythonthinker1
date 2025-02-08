@@ -19,6 +19,8 @@ print(name)
 colour=input("What is your favourite colour?")
 print(colour)
 
+age=input
+
 
 
 
