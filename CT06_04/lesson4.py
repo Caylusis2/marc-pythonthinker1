@@ -12,7 +12,7 @@ red_total=red_plates*red_price
 blue_total=blue_plates*blue_price
 # print(total)
 
-("What is your name?")
+name=imput("What is your name?")
 
 
 
