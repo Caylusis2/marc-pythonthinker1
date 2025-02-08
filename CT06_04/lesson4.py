@@ -5,4 +5,4 @@ b= 10/2
 c= a*5
 d= c-b
 d= ans
-print()
+print(d)
