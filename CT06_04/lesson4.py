@@ -20,7 +20,7 @@ colour=input("What is your favourite colour?")
 print(colour)
 
 age=input("What is your age?")
-print
+print(age)
 
 
 
