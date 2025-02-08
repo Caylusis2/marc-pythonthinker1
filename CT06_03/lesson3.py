@@ -56,6 +56,12 @@ num2=4
 division=num1/num2
 print(division)
 
+a= 3+4
+b= 10/2
+c= a*5
+d= c-b
+print(d)
+
 
 
 
