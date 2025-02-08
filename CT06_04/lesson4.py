@@ -27,7 +27,7 @@ hobby=input("What is your favourite hobby?")
 print("I enjoy "+ hobby)
 
 dv=input("What is your dream vacation?")
-print("I would love to visit")
+print("I would love to visit "+dv)
 
 
 
