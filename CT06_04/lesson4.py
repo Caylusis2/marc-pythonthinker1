@@ -15,7 +15,7 @@ total=red_total+blue_total+green_total
 print(total)
 
 name=input("What is your name?")
-print(name)
+print("Hi"+name)
 
 colour=input("What is your favourite colour?")
 print(colour)
