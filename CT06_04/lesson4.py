@@ -9,6 +9,9 @@ blue_plates= 5
 green_plates= 4
 
 red_total=red_plates*red_price
-blue_total=blue_plates*
+blue_total=blue_plates*blue_price
 print(total)
+
+
+
 
