@@ -14,7 +14,7 @@ green_total=green_plates*green_price
 total=red_total
 
 name=input("What is your name?")
-printname
+print(name)
 
 
 
