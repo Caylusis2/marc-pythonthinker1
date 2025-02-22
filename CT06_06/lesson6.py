@@ -33,8 +33,8 @@ name = "Alice"
 print(name)
 
 # **Task 2c**:
-print(x)
-x = 5
+
+x = 5print(x)
 
 # **Task 2d**:
 pint("Hello, World!")
