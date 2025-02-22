@@ -25,7 +25,6 @@
 # # **Task 1e**:
 # print("Hello, World!")
 
-# **Task 2a**:
-# 
+x = 
 
 
