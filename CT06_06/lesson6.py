@@ -48,7 +48,8 @@ number = 10
 print(number - 5)
 
 # **Task 3c**:
-print("Repeat" * "3")
+for i in range("Repeat"):
+    print
 
 # **Task 3d**:
 year = 2023
