@@ -26,14 +26,14 @@
 # print("Hello, World!")
 
 # **Task 2a**:
-print(age)
+print("age")
 
 # **Task 2b**:
 name = "Alice"
-print(nam)
+print(name)
 
 # **Task 2c**:
-
+x = 5
 print(x)
 
 # **Task 2d**:
