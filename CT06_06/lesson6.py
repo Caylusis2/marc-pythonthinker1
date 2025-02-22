@@ -48,7 +48,7 @@ number = 10
 print(number - 5)
 
 # **Task 3c**:
-for i in range("Repeat"):
+for i in range(3):
     print(i)
 
 # **Task 3d**:
