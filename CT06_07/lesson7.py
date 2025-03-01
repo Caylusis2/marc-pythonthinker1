@@ -34,7 +34,8 @@
 # for i in range(n):
 #     print("Nice to meet you, " + name)
 
-num_1= input("Give me the first number")
-num_2= input("Give me the second number")
-num_3
+sum=0
+
+for i in range(1, 10):
+    print(su)
 
