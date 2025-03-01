@@ -37,5 +37,4 @@
 sum=0
 
 for i in range(1, 6):
-    sum = sum + int(input("What is the numbers"))
-
+    sum = sum + int(input("What is the number #"))
