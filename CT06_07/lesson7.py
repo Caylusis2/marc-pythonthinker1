@@ -43,6 +43,8 @@
 
 number= input("What is the number for the timetable?")
 
+for i in range(1, 12):
+    print
 
 
 
