@@ -22,4 +22,8 @@
 # for i in range(10 , 0, -1):
 #     print(i)
 
-word= imput("Give me a word")
+word= input("Give me a word")
+n= int(input("Give me a number"))
+
+for i in range(n):
+    print(word)
