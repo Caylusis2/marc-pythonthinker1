@@ -22,11 +22,11 @@
 # for i in range(10 , 0, -1):
 #     print(i)
 
-word= input("Give me a word")
-n= int(input("Give me a number"))
+# word= input("Give me a word")
+# n= int(input("Give me a number"))
 
-for i in range(n):
-    print(word)
+# for i in range(n):
+#     print(word)
 
 name= input("What is your name?")
 n= input("Give me an integer")
