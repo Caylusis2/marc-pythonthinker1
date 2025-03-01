@@ -29,5 +29,6 @@
 #     print(word)
 
 name= input("What is your name?")
-n= input("Give me an integer")
+n= int(input("Give me an integer"))
+
 
