@@ -30,3 +30,6 @@ for i in range(n):
 
 name= input("What is your name?")
 n= input("Give me an integer")
+
+for i in range(n):
+    print()
