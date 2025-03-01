@@ -41,7 +41,7 @@
 
 # print("Sum of the five number is " + str(sum))
 
-
+number= input("")
 
 
 
