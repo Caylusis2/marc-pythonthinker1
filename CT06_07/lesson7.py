@@ -41,7 +41,8 @@
 
 # print("Sum of the five number is " + str(sum))
 
-number= input("")
+number= input("What is the number for the timetable?")
+
 
 
 
