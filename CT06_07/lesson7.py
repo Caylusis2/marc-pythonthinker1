@@ -35,4 +35,5 @@
 #     print("Nice to meet you, " + name)
 
 num_1= input("Give me the first number")
+num_2= input()
 
