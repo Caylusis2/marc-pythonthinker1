@@ -28,5 +28,6 @@
 # for i in range(n):
 #     print(word)
 
-name= input("")
+name= input("What is your name?")
+
 
