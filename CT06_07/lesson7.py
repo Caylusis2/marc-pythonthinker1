@@ -28,8 +28,4 @@
 # for i in range(n):
 #     print(word)
 
-name= input("What is your name?")
-n= int(input("Give me an integer"))
-
-for i in range(n):
-    print("Nice to meet you, " + name)
+# 
