@@ -29,5 +29,5 @@
 #     print(word)
 
 name= input("What is your name?")
-
+n= input("")
 
