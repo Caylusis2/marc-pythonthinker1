@@ -29,3 +29,4 @@ for i in range(n):
     print(word)
 
 name= input("What is your name?")
+i
