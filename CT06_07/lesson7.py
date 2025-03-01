@@ -41,10 +41,10 @@
 
 # print("Sum of the five number is " + str(sum))
 
-number= int(input("What is the number for the timetable?"))
+# number= int(input("What is the number for the timetable?"))
 
-for i in range(1, 13):
-    print(str(number) + " x " + str(i) +  " = " + str(number*i))
+# for i in range(1, 13):
+#     print(str(number) + " x " + str(i) +  " = " + str(number*i))
 
 
 
