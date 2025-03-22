@@ -18,7 +18,7 @@ print("Hello from lesson 9")
 
 # print(all_even_add)
 
-numberofdays=input("How many days have your book been borrowed?")
+numberofdays=int(input("How many days have your book been borrowed?"))
 
 if numberofdays > 25:
     print("Remember to return your book!")
