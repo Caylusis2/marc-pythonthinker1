@@ -68,6 +68,8 @@
 
 import random
 
+num1=
+
 
 
 
