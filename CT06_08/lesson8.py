@@ -63,7 +63,7 @@ import random
 for i in range(numberofquestions):
     num1= random.randint(1, 10)
     num2= random.randint(1, 10)
-    useranswer=int(input("What is" + num1 + num2))
+    useranswer=int(input("What is" + num1 + " x " + num2))
 
 
 
