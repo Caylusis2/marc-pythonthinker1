@@ -4,4 +4,4 @@ guess=int(input("What is your guess?"))
 
 import random
 
-num1= randint
+num1=random,randint(1, 10)
