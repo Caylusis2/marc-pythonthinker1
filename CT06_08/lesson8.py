@@ -56,15 +56,15 @@
 
 # print(guess==num1)
 
-numberofquestions=int(input("How many questions do you want?"))
+# numberofquestions=int(input("How many questions do you want?"))
 
-import random
+# import random
 
-for i in range(numberofquestions):
-    num1= random.randint(1, 10)
-    num2= random.randint(1, 10)
-    useranswer=int(input("What is " + str(num1) + " x " + str(num2) + "?"))
-    print(num1 * num2 == useranswer)
+# for i in range(numberofquestions):
+#     num1= random.randint(1, 10)
+#     num2= random.randint(1, 10)
+#     useranswer=int(input("What is " + str(num1) + " x " + str(num2) + "?"))
+#     print(num1 * num2 == useranswer)
 
 
 
