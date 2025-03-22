@@ -56,7 +56,7 @@ num1= random.randint(1, 10)
 
 print(guess==num1)
 
-numberofquestions=input("")
+numberofquestions=intinput("How many questions do you want?")
 
 
 
