@@ -18,7 +18,7 @@ print("Hello from lesson 9")
 
 # print(all_even_add)
 
-numberofdays=input
+numberofdays=input("How many days have you ")
 
 
 
