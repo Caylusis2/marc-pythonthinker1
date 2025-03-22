@@ -76,8 +76,9 @@ print("1st number is: " + str(num1))
 print("2nd number is: " + str(num2))
 print("3rd number is: " + str(num3))
 
-num1_isEven= num1 % 1 == 0
-num2_isE
+num1_isEven= num1 % 2 == 0
+num2_isEven= num1 % 2 == 0
+num3
 
 
 
