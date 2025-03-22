@@ -82,6 +82,8 @@ num3_isEven= num3 % 2 == 0
 
 all_even_add = num1_isEven == num2_isEven
 
+pritn(all_even_add)
+
 
 
 
