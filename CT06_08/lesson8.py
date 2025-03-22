@@ -66,6 +66,8 @@
 #     useranswer=int(input("What is " + str(num1) + " x " + str(num2) + "?"))
 #     print(num1 * num2 == useranswer)
 
+import random
+
 
 
 
