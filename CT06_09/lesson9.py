@@ -18,7 +18,9 @@ print("Hello from lesson 9")
 
 # print(all_even_add)
 
-numberofdays=input("How many days have the book b")
+numberofdays=input("How many days have the book been borrowed?")
+
+
 
 
 
