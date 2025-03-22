@@ -74,7 +74,7 @@ num3= random.randint(1, 6)
 
 print("1st number is: " + str(num1))
 print("2nd number is: " + str(num2))
-print("")
+print("3rd number is:")
 
 
 
