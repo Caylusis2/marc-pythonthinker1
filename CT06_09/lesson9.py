@@ -39,7 +39,7 @@ num_apples=input("How many apples do you wan tot buy?")
 num_oranges=input("How many oranges do you want to buy?")
 
 if num_apples > 5:
-    costApple = num_apple * price
+    costApple = num_apple * price_apple * 0.9
 
 
 
