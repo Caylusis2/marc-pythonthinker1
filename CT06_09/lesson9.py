@@ -29,6 +29,8 @@ num= random.randint(1, 10)
 
 userguess=int(input("Guess the number"))
 
+if userguess == num:
+    print()
 
 
 
