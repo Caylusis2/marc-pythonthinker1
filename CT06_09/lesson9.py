@@ -6,3 +6,4 @@ import random
 
 num1= random.randint(1, 10)
 
+print(guess==num1)
