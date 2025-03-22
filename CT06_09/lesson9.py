@@ -26,5 +26,3 @@ if numberofdays > 25:
 
 
 
-
-
