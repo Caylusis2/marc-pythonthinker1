@@ -32,27 +32,27 @@ print("Hello from lesson 9")
 # if userguess == num:
 #     print("Congratulations!")
 
-price_apple = 0.60
-price_orange = 0.90
+# price_apple = 0.60
+# price_orange = 0.90
 
-num_apples=input("How many apples do you wan tot buy?")
-num_oranges=input("How many oranges do you want to buy?")
+# num_apples=input("How many apples do you wan tot buy?")
+# num_oranges=input("How many oranges do you want to buy?")
 
-if num_apples > 5:
-    costApple = num_apples * price_apple * 0.9
+# if num_apples > 5:
+#     costApple = num_apples * price_apple * 0.9
 
-if num_apples < 5:
-    costApple = num_apples * price_apple
+# if num_apples < 5:
+#     costApple = num_apples * price_apple
 
-if num_oranges > 5:
-    costOrange = num_oranges * price_orange * 0.9
+# if num_oranges > 5:
+#     costOrange = num_oranges * price_orange * 0.9
 
-if num_oranges > 5:
-    costOrange = num_oranges * price_orange
+# if num_oranges > 5:
+#     costOrange = num_oranges * price_orange
 
-total =costOrange + costApple
+# total =costOrange + costApple
 
-print(total)
+# print(total)
 
 
 
