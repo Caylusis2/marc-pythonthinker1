@@ -32,7 +32,7 @@ print("Hello from lesson 9")
 # if userguess == num:
 #     print("Congratulations!")
 
-
+price_orange = 0.60
 
 
 
