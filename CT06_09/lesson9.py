@@ -52,7 +52,7 @@ if num_oranges > 5:
 
 total =costOrange + costApple
 
-print(to)
+print(total)
 
 
 
