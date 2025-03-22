@@ -80,7 +80,7 @@ num1_isEven= num1 % 2 == 0
 num2_isEven= num1 % 2 == 0
 num3_isEven= num3 % 2 == 0
 
-all_even_add
+all_even_add = num1_isEven
 
 
 
