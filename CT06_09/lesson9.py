@@ -25,7 +25,9 @@ print("Hello from lesson 9")
 
 import random
 
-num= 
+num= random.randint(1, 10)
+
+user
 
 
 
