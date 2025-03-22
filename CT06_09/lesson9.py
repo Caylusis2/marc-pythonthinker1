@@ -50,7 +50,9 @@ if num_oranges > 5:
 if num_oranges > 5:
     costOrange = num_oranges * price_orange
 
-total =costOrange + cost
+total =costOrange + costApple
+
+print(to)
 
 
 
