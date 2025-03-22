@@ -27,7 +27,8 @@ import random
 
 num= random.randint(1, 10)
 
-userguess=input("Guess the number")
+userguess=int(input("Guess the number"))
+
 
 
 
