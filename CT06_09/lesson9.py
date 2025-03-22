@@ -23,14 +23,16 @@ print("Hello from lesson 9")
 # if numberofdays > 25:
 #     print("Remember to return your book!")
 
-import random
+# import random
 
-num= random.randint(1, 10)
+# num= random.randint(1, 10)
 
-userguess=int(input("Guess the number: "))
+# userguess=int(input("Guess the number: "))
 
-if userguess == num:
-    print("Congratulations!")
+# if userguess == num:
+#     print("Congratulations!")
+
+
 
 
 
