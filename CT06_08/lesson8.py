@@ -48,15 +48,17 @@
 
 # print(answer == num1+num2 )
 
-guess=int(input("What is your guess?"))
+# guess=int(input("What is your guess?"))
 
-import random
+# import random
 
-num1= random.randint(1, 10)
+# num1= random.randint(1, 10)
 
-print(guess==num1)
+# print(guess==num1)
 
 numberofquestions=int(input("How many questions do you want?"))
+
+
 
 
 
