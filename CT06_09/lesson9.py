@@ -1,3 +1,3 @@
 print("Hello from lesson 9")
 
-guess=input("W")
+guess=int(input("What is your guess?"))
