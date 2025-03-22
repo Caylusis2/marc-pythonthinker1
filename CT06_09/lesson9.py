@@ -44,6 +44,9 @@ if num_apples > 5:
 if num_apples < 5:
     costApple = num_apples * price_apple
 
+if num_oranges > 5:
+    costO
+
 
 
 
