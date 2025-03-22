@@ -48,7 +48,7 @@ if num_oranges > 5:
     costOrange = num_oranges * 0.9
 
 if num_oranges > 5:
-    costOrange
+    costOrange = num_oranges
 
 
 
