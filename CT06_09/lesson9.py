@@ -35,7 +35,7 @@ print("Hello from lesson 9")
 price_apple = 0.60
 price_orange = 0.90
 
-
+num
 
 
 
