@@ -35,7 +35,8 @@ print("Hello from lesson 9")
 price_apple = 0.60
 price_orange = 0.90
 
-num
+num_apples=input("How many apples do you wan tot buy?")
+num_oranges= 
 
 
 
