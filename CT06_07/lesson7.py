@@ -46,6 +46,24 @@
 # for i in range(1, 13):
 #     print(str(number) + " x " + str(i) +  " = " + str(number*i))
 
+# num=int(input("Give me a number"))
+
+# for i in range(1, num + 1):
+#     print(str(i) *i)
+
+# sum=0
+# for i in range(1, 6):
+#     sum = sum +int(input("What is the score of the student #" + str(i)))
+# average_score=sum/5
+# print("The average score of the students is " + str(average_score))
+
+# sum=0
+# num_of_students=int(input("How many students do you have?"))
+# for i in range(1, num_of_students + 1):
+#     sum = sum +int(input("What is the score of the student #" + str(i) + "? "))
+# average_score=sum/num_of_students
+# print("The average score of the students is " + str(average_score))
+
 
 
 

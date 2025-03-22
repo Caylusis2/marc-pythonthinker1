@@ -16,10 +16,10 @@
 # for count in range(100, 0, -1):
 # 	print(count)
 
-x = '1'
-b = '1'
-c = x + b
-print(c)
+# x = '1'
+# b = '1'
+# c = x + b
+# print(c)
 
 # batman = "10"
 # robin = "2"
