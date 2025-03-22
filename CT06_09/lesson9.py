@@ -20,7 +20,8 @@ print("Hello from lesson 9")
 
 numberofdays=input("How many days have the book been borrowed?")
 
-
+if numberofdays > 25:
+    print
 
 
 
