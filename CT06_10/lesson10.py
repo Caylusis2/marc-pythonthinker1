@@ -6,5 +6,5 @@
 # else:
 #     print("Positive")
 
-int
+int=input()
 
