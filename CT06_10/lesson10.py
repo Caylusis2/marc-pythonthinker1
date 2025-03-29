@@ -8,4 +8,6 @@
 
 int=int(input("Give me a number"))
 
+if int % 2 == 0:
+    print
 
