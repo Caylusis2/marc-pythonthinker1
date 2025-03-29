@@ -6,4 +6,4 @@ random.randint(1, 15)
 guess=input("Guess a number")
 
 if random.randint == guess:
-    print("")
+    print("That's it!")
