@@ -66,7 +66,7 @@ desirable=0
 undesirable=0
 
 for i in range(10):
-    ratings=int(input("How is the hotel experience?"))
+    ratings=int(input("How was the hotel experience?"))
     if ratings > 3:
         desirable +=1
     if ratings <= 3:
