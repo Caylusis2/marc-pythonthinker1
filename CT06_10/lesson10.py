@@ -4,4 +4,4 @@ int=input("Give me a number")
 if int < 0:
     print("Negative")
 else:
-    print(Positive)
+    print("Positive")
