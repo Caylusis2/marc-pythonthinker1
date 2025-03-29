@@ -65,7 +65,7 @@ print(positive_days)
 rating=0
 
 for i in range(10):
-    
+    ratings=int(input())
 
 
 
