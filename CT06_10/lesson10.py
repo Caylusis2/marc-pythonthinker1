@@ -20,6 +20,7 @@ if age < 13:
 elif age < 19:
     print("Teen")
 else:
+    print("Adult")
 
 
 
