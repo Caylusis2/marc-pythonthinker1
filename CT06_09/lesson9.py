@@ -62,7 +62,9 @@ for i in range(7):
         positive_days += 1 
 print(positive_days)
 
-rating
+rating=0
+
+
 
 
 
