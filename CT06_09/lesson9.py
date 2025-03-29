@@ -54,13 +54,13 @@
 
 # print(total)
 
-positive_days=0
+# positive_days=0
 
-for i in range(7):
-    temp = int(input("What is the temperature for today?"))
-    if temp > 30:
-        positive_days += 1 
-print(positive_days)
+# for i in range(7):
+#     temp = int(input("What is the temperature for today?"))
+#     if temp > 30:
+#         positive_days += 1 
+# print(positive_days)
 
 desirable=0
 undesirable=0
