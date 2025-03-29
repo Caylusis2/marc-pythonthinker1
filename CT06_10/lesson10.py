@@ -22,7 +22,10 @@
 #     print("Teen")
         
         
-score=int(input("What is your score?")
+score=int(input("What is your score?"))
+
+if score > 90:
+    
 
 
 
