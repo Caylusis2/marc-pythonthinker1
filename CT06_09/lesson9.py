@@ -1,4 +1,4 @@
-print("Hello from lesson 9")
+# print("Hello from lesson 9")
 
 # import random
 
@@ -57,7 +57,11 @@ print("Hello from lesson 9")
 positive_days=0
 
 for i in range(7):
-    print("What's the temperature for today?")
+    temp = int(input("What is the temperature for today?"))
+    if temp > 30:
+        positive_days += 1
+
+
 
 
 
