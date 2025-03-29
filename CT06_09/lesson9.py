@@ -72,7 +72,7 @@ for i in range(10):
     if ratings <= 3:
         undesirable += 1
 
-
+print()
 
 
 
