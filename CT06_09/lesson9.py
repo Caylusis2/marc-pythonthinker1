@@ -54,7 +54,7 @@ print("Hello from lesson 9")
 
 # print(total)
 
-psi
+positive_days
 
 
 
