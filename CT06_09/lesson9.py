@@ -73,6 +73,7 @@ for i in range(10):
         undesirable += 1
 
 print(desirable)
+print(undesirable)
 
 
 
