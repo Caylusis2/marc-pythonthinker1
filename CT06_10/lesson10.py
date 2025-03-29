@@ -6,5 +6,6 @@
 # else:
 #     print("Positive")
 
-int=input()
+int=int(input("Give me a number"))
+
 
