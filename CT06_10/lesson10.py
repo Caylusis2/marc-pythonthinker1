@@ -6,8 +6,8 @@
 # else:
 #     print("Positive")
 
-int=int(input("Give me a number"))
+num=int(input("Give me a number"))
 
 if int % 2 == 0:
-    print
+    print("even")
 
