@@ -6,10 +6,12 @@
 # else:
 #     print("Positive")
 
-num=int(input("Give me a number"))
+# num=int(input("Give me a number"))
 
-if num % 2 == 0:
-    print("This number is even")
-else:
-    print("This number is odd")
+# if num % 2 == 0:
+#     print("This number is even")
+# else:
+#     print("This number is odd")
+
+
 
