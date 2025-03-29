@@ -13,5 +13,5 @@
 # else:
 #     print("This number is odd")
 
-
+age=input("Whay")
 
