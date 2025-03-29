@@ -54,7 +54,7 @@ print("Hello from lesson 9")
 
 # print(total)
 
-positive_days
+positive_days=input()
 
 
 
