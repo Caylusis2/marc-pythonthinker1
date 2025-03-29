@@ -32,6 +32,7 @@ elif score > 70:
     print("C")
 elif score > 60:
     print("D")
+el
 
 
 
