@@ -23,5 +23,5 @@ else:
     else:
         print("Adult")
 
-temp
+temp=
 
