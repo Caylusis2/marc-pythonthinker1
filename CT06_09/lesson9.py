@@ -62,7 +62,8 @@ for i in range(7):
         positive_days += 1 
 print(positive_days)
 
-rating=0
+desirable=0
+unde
 
 for i in range(10):
     ratings=int(input("How is the hotel experience?"))
