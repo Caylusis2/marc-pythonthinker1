@@ -62,18 +62,20 @@
 #         positive_days += 1 
 # print(positive_days)
 
-desirable=0
-undesirable=0
+# desirable=0
+# undesirable=0
 
-for i in range(10):
-    ratings=int(input("How was the hotel experience?"))
-    if ratings > 3:
-        desirable +=1
-    if ratings <= 3:
-        undesirable += 1
+# for i in range(10):
+#     ratings=int(input("How was the hotel experience?"))
+#     if ratings > 3:
+#         desirable +=1
+#     if ratings <= 3:
+#         undesirable += 1
 
-print(desirable)
-print(undesirable)
+# print(desirable)
+# print(undesirable)
+
+
 
 
 
