@@ -17,7 +17,7 @@
 
 # if age < 13:
 #     print("Child")
-# elif age < 
+# elif age < 19:
     
         
         
