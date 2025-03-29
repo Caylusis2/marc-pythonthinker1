@@ -8,7 +8,7 @@
 
 num=int(input("Give me a number"))
 
-if int % 2 == 0:
+if num % 2 == 0:
     print("This number is even")
 else:
     print("This number is odd")
