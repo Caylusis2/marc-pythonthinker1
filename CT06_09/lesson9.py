@@ -57,7 +57,9 @@ print("Hello from lesson 9")
 positive_days=0
 
 for i in range(7):
-    
+    print("What's the temperature for today?")
+
+
 
 
 
