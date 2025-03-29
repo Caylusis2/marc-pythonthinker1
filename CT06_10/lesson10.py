@@ -18,8 +18,7 @@
 # if age < 13:
 #     print("Child")
 # else:
-#      if age < 19:
-#     print("Teen")
+    
         
         
 score=int(input("What is your score?"))
