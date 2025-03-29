@@ -25,3 +25,6 @@ else:
 
 temp=int("What is the temperature?")
 
+if temp < 20:
+    print()
+
