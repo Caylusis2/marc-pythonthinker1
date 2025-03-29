@@ -9,5 +9,7 @@
 num=int(input("Give me a number"))
 
 if int % 2 == 0:
-    print("even")
+    print("This number is even")
+else:
+    print
 
