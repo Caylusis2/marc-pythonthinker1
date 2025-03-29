@@ -13,5 +13,5 @@ guess=int(input("Guess a number from 1 to 10"))
 if random.randint == guess:
     print("Congratulations!! You did it!")
 else:
-    print()
+    print("Oops, better luck next time!")
 
