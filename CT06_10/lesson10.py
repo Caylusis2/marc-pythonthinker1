@@ -13,14 +13,14 @@
 # else:
 #     print("This number is odd")
 
-age=int(input("What is your age?"))
+# age=int(input("What is your age?"))
 
-if age < 13:
-    print("Child")
-elif age < 19:
-    print("Teen")
-else:
-    print("Adult")
+# if age < 13:
+#     print("Child")
+# elif age < 19:
+#     print("Teen")
+# else:
+#     print("Adult")
 
 
 
