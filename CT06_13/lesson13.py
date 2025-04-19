@@ -48,6 +48,8 @@ print(groceries)
 groceries.append("Ice")
 groceries.insert(1, "bananas")
 
+print(groceries)
+
 
 
         
