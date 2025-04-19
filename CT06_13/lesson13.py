@@ -41,7 +41,7 @@ groceries = [
     "Honey"
 ]
 
-groceris
+groceries[7]
 
 
 
