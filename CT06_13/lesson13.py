@@ -21,7 +21,7 @@ while True:
             print("Error: Declined. Not enough money!")
 
     if userChoice == 2:
-        amount= input("How much do you want to deposit")
+        amount= int(input("How much do you want to deposit?")) # Make sure it is integer so you can add it to balance
         balance += amount
         
 
