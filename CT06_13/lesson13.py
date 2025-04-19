@@ -20,3 +20,5 @@ while True:
         else:
             print("Error: Declined. Not enough money!")
 
+        
+
