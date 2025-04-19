@@ -3,7 +3,7 @@
 account_balance = 1000
 while True:
     print("Choose between the four options below using the options number...")
-    print("1. ")
+    print("1. Withdraw")
     print("2. ")
     print("3. ")
     print("4. ")
