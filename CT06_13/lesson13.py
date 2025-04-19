@@ -25,7 +25,7 @@ while True:
         balance += amount
         
     if userChoice == 3:
-        printstr((balance))
+        print
 
     if userChoice == 4:
         break
