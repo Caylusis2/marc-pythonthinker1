@@ -39,7 +39,6 @@ groceries = [
     "Flour",
     "Grapes",
     "Honey"
-
 ]
 
 
