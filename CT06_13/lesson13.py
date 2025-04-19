@@ -6,4 +6,4 @@ while True:
     print("1. Withdraw")
     print("2. Deposit")
     print("3. Check balance")
-    print("4. ")
+    print("4. Exit")
