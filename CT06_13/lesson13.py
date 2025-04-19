@@ -43,7 +43,7 @@ groceries = [
 
 groceries[7] = "Herbs"
 
-print()
+print(groceries)
 
 
 
