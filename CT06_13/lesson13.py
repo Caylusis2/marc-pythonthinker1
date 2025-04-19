@@ -3,3 +3,4 @@
 account_balance = 1000
 while True:
     print("Choose between the four options below using the options number...")
+    print()
