@@ -50,7 +50,9 @@ groceries.insert(1, "bananas")
 
 print(groceries)
 
-del(groceries)
+del(groceries[2])
+
+print
 
 
 
