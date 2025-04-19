@@ -11,5 +11,8 @@ while True:
     userChoice=int(input("Your choice: "))
 
     if userChoice == 1:
-        amount=int(input("How much do you want to withdraw?"))
-        
+        amount=int(input("How much do you want to withdraw? "))
+
+        if amount <= account_balance:
+            
+
