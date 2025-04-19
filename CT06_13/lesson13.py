@@ -25,7 +25,7 @@ while True:
         balance += amount
         
     if userChoice == 3:
-        print("You currently have:" + str(balance))
+        print("You currently have:" + int(balance))
 
     if userChoice == 4:
         break
