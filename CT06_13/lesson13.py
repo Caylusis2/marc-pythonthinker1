@@ -22,4 +22,6 @@ while True:
 
     if userChoice == 2:
         amount= input("How much do you want to deposit")
+        balance += amount
+        
 
