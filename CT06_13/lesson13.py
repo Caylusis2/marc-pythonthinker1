@@ -52,7 +52,7 @@ print(groceries)
 
 del(groceries[2])
 
-print
+print(groceries)
 
 
 
