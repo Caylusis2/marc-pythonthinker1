@@ -27,7 +27,9 @@ while True:
     if userChoice == 3:
         print("You currently have:" + str(amount))
 
-    
+    if userChoice == 4:
+        break
+
 
         
         
