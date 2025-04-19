@@ -25,7 +25,7 @@
 #         balance += amount
         
 #     if userChoice == 3:
-#         print
+#         print("You currently have $" +)
 
 #     if userChoice == 4:
 #         break
