@@ -8,4 +8,4 @@ while True:
     print("3. Check balance")
     print("4. Exit")
 
-    userchoice=input("")
+    userchoice=int(input("Your choice: "))
