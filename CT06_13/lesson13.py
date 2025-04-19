@@ -21,5 +21,5 @@ while True:
             print("Error: Declined. Not enough money!")
 
     if userChoice == 2:
-        
+        amount= input("How much do you want to deposit")
 
