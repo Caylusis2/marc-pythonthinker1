@@ -17,5 +17,5 @@ while True:
             account_balance -= amount
             print("You have successfully withdrew the amount. ")
             print("The current balance is: $" + str(account_balance))
-            
+        else
 
