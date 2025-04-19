@@ -11,4 +11,5 @@ while True:
     userChoice=int(input("Your choice: "))
 
     if userChoice == 1:
-        amount=input("Howmuch do you want to withdraw?")
+        amount=int(input("How much do you want to withdraw?"))
+        
