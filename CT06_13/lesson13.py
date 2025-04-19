@@ -9,4 +9,6 @@ while True:
     print("4. Exit")
 
     userChoice=int(input("Your choice: "))
-    
+
+    if userChoice == 1:
+        amount=
