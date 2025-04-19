@@ -32,8 +32,8 @@
 
 groceries = [
     "Apples",
-    "Oranges",
-    "nextitem"
+    "Bread",
+    "Carrots"
 ]
 
 
