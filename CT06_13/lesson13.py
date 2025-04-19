@@ -18,5 +18,5 @@ while True:
             print("You have successfully withdrew the amount. ")
             print("The current balance is: $" + str(account_balance))
         else:
-            print("Error: Declined")
+            print("Error: Declined.")
 
