@@ -30,9 +30,19 @@
 #     if userChoice == 4:
 #         break
 
-list_of_stuff = {}
+groceries = [
+    "Apples",
+    "Oranges",
+    "nextitem"
+]
+
 
 
         
         
 
+# this is the syntax:
+# groceries = [
+#     "Apples",
+#     "Oranges"
+# ]
