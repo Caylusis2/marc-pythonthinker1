@@ -25,7 +25,7 @@
 #         balance += amount
         
 #     if userChoice == 3:
-#         print("You currently have $" +)
+#         print("You currently have $" + str(account_balance))
 
 #     if userChoice == 4:
 #         break
