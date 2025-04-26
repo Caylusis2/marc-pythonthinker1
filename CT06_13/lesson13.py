@@ -60,6 +60,8 @@ pizza_toppings= [
     "Pineapple"
 ]
 
+user_toppings
+
 i= 1
 for item in pizza_toppings:
     print(str(i) + "." + item)
