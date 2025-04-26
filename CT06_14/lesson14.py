@@ -38,6 +38,10 @@ t.forward(300)
 
 window.mainloop()
 
+import turtle
+
+
+
 
 
 
