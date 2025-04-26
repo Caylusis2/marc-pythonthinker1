@@ -74,7 +74,9 @@ while True:
         break
     else:
         user_toppings.append(pizza_toppings[int(user_input)-1])
-        
+
+for item in user_toppings:
+    print
 
 
 
