@@ -18,7 +18,7 @@ import turtle
 
 window =turtle.Screen()
 
-t= turtle.Turtle("square")
+t= turtle.Turtle()
 
 t.shape("square")
 
