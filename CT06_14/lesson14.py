@@ -16,6 +16,8 @@ window.mainloop()
 
 import turtle
 
+window
+
 t= turtle.turtle("square")
 
 
