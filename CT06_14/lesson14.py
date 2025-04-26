@@ -50,6 +50,10 @@ for i in range(3):
 
 window.mainloop()
 
+import turtle
+
+
+
 
 
 
