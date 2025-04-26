@@ -20,6 +20,8 @@ window =turtle.Screen()
 
 t= turtle.Turtle("square")
 
+t.shape("square")
+
 
 
 window.mainloop()
