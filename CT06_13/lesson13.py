@@ -61,7 +61,8 @@ pizza_toppings= [
 ]
 
 i= 1
-
+for item in pizza_toppings:
+    p
 
 
         
