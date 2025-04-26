@@ -12,7 +12,7 @@ t.shape("turtle")
 
 t.fillcolor("orange")
 
-
+t.shape("spuare")
 
 window.mainloop()
 
