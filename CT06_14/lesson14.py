@@ -22,6 +22,8 @@ t= turtle.Turtle("square")
 
 t.shape("square")
 
+t.fillcolor("")
+
 
 
 window.mainloop()
