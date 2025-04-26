@@ -50,7 +50,7 @@
 
 # print(groceries)
 
-# del(groceries[2])
+# del(groceries[1])
 
 # print(groceries)
 
