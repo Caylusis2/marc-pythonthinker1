@@ -34,7 +34,7 @@ t =turtle.Turtle()
 
 t.seth(0)
 
-t.forward()
+t.forward(300)
 
 window.mainloop()
 
