@@ -16,5 +16,5 @@ window.mainloop()
 
 import turtle
 
-t= turtle.Square
+t= turtle.turtle("square")
 
