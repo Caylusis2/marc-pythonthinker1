@@ -30,7 +30,7 @@ import turtle
 
 window =turtle.Screen()
 
-t =turtle.Turtle
+t =turtle.Turtle()
 
 t.seth(0)
 
