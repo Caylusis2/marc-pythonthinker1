@@ -14,17 +14,19 @@ print("Hello from lesson 14")
 
 # window.mainloop()
 
-import turtle
+# import turtle
 
-window =turtle.Screen()
+# window =turtle.Screen()
 
-t= turtle.Turtle()
+# t= turtle.Turtle()
 
-t.shape("square")
+# t.shape("square")
 
-t.fillcolor("green")
+# t.fillcolor("green")
 
-window.mainloop()
+# window.mainloop()
+
+
 
 
 
