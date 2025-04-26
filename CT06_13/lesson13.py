@@ -62,7 +62,7 @@ pizza_toppings= [
 
 i= 1
 for item in pizza_toppings:
-    print(i + item)
+    print(str(i + item)
 
 
         
