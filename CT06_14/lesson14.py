@@ -24,9 +24,11 @@ t.shape("square")
 
 t.fillcolor("green")
 
-
-
 window.mainloop()
+
+
+
+
 
 
 
