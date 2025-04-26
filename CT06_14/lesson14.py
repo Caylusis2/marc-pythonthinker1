@@ -1,18 +1,18 @@
 print("Hello from lesson 14")
 
-import turtle
+# import turtle
 
-window = turtle.Screen()
+# window = turtle.Screen()
 
-window.setup(width=600, height=400)
+# window.setup(width=600, height=400)
 
-t= turtle.Turtle()
+# t= turtle.Turtle()
 
-t.shape("turtle")
+# t.shape("turtle")
 
-t.fillcolor("orange")
+# t.fillcolor("orange")
 
-window.mainloop()
+# window.mainloop()
 
 import turtle
 
