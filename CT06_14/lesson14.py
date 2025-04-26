@@ -18,9 +18,10 @@ import turtle
 
 window =turtle.Screen()
 
+
 window.mainloop()
 
-t= turtle.turtle("square")
+
 
 
 
