@@ -26,7 +26,9 @@ print("Hello from lesson 14")
 
 # window.mainloop()
 
-imp
+import turtle
+
+
 
 
 
