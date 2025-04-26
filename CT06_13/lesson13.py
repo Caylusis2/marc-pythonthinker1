@@ -86,8 +86,3 @@
         
         
 
-# this is the syntax:
-# groceries = [
-#     "Apples",
-#     "Oranges"
-# ]
