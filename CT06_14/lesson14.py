@@ -44,7 +44,8 @@ window =turtle.Screen()
 
 t =turtle.Turtle()
 
-
+for i in range(3):
+    t.forward()
 
 window.mainloop()
 
