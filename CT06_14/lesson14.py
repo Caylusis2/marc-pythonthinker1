@@ -1,3 +1,5 @@
 print("Hello from lesson 14")
 
-turtle.Screen
+import turtle
+
+turtle.Screen()
