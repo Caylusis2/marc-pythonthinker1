@@ -50,18 +50,18 @@ print("Hello from lesson 14")
 
 # window.mainloop()
 
-import turtle
+# import turtle
 
-window =turtle.Screen()
+# window =turtle.Screen()
 
-t =turtle.Turtle()
+# t =turtle.Turtle()
 
-for i in range(4):
-    t.forward(100)
-    t.left(90)
+# for i in range(4):
+#     t.forward(100)
+#     t.left(90)
     
 
-window.mainloop()
+# window.mainloop()
 
 
 
