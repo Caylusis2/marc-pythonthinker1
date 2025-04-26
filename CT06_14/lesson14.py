@@ -34,6 +34,8 @@ t =turtle.Turtle()
 
 t.seth(0)
 
+
+
 window.mainloop()
 
 
