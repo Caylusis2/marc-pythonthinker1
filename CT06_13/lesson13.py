@@ -68,7 +68,12 @@ for item in pizza_toppings:
     i += 1
 
 while True:
-    user_input= input("What topping do you want? Type end to end. ")
+    user_input= input("What topping do you want? Type end to end. Give me the number:")
+
+    if user_input == "end":
+        break
+    else:
+        
 
 
 
