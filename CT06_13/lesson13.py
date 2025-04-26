@@ -62,7 +62,9 @@ pizza_toppings= [
 
 i= 1
 for item in pizza_toppings:
-    print(str(i) + item)
+    print(str(i) + "." + item)
+    
+    
 
 
         
