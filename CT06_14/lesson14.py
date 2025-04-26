@@ -26,23 +26,25 @@ print("Hello from lesson 14")
 
 # window.mainloop()
 
+# import turtle
+
+# window =turtle.Screen()
+
+# t =turtle.Turtle()
+
+# t.seth(0)
+
+# t.forward(300)
+
+# window.mainloop()
+
 import turtle
 
 window =turtle.Screen()
 
 t =turtle.Turtle()
 
-t.seth(0)
 
-t.forward(300)
-
-window.mainloop()
-
-import turtle
-
-window =turtle.Screen()
-
-t =turtle.Turtle()
 
 window.mainloop()
 
