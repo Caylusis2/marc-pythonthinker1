@@ -73,7 +73,7 @@ while True:
     if user_input == "end":
         break
     else:
-        user_toppings.append(pizza_toppings[int(user)])
+        user_toppings.append(pizza_toppings[int(userInput)])
 
 
 
