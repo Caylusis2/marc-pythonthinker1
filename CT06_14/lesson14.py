@@ -22,7 +22,7 @@ t= turtle.Turtle("square")
 
 t.shape("square")
 
-t.fillcolor("")
+t.fillcolor("green")
 
 
 
