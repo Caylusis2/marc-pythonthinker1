@@ -46,7 +46,7 @@
 # print(groceries)
 
 # groceries.append("Ice")
-# groceries.insert(1, "bananas")
+# groceries.insert(0, "bananas")
 
 # print(groceries)
 
