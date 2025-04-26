@@ -30,29 +30,29 @@
 #     if userChoice == 4:
 #         break
 
-groceries = [
-    "Apples",
-    "Bread",
-    "Carrots",
-    "Dates",
-    "Eggs",
-    "Flour",
-    "Grapes",
-    "Honey"
-]
+# groceries = [
+#     "Apples",
+#     "Bread",
+#     "Carrots",
+#     "Dates",
+#     "Eggs",
+#     "Flour",
+#     "Grapes",
+#     "Honey"
+# ]
 
-groceries[7] = "Herbs"
+# groceries[7] = "Herbs"
 
-print(groceries)
+# print(groceries)
 
-groceries.append("Ice")
-groceries.insert(1, "bananas")
+# groceries.append("Ice")
+# groceries.insert(1, "bananas")
 
-print(groceries)
+# print(groceries)
 
-del(groceries[2])
+# del(groceries[2])
 
-print(groceries)
+# print(groceries)
 
 pizza_toppings= [
     "Mushrooms",
@@ -63,7 +63,7 @@ pizza_toppings= [
 i= 1
 for item in pizza_toppings:
     print(str(i) + "." + item)
-    
+
     
 
 
