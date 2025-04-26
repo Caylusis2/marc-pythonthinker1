@@ -52,6 +52,10 @@ window.mainloop()
 
 import turtle
 
+window =turtle.Screen()
+
+
+
 
 
 
