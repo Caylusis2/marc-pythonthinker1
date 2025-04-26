@@ -16,7 +16,7 @@ window.mainloop()
 
 import turtle
 
-window
+window =turtle.Screen()
 
 t= turtle.turtle("square")
 
