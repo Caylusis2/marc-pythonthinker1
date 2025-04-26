@@ -60,7 +60,7 @@ pizza_toppings= [
     "Pineapple"
 ]
 
-i= 14
+i= 1
 
 
 
