@@ -10,5 +10,7 @@ t= turtle.Turtle()
 
 t.shape("turtle")
 
+t.fillcolour
+
 window.mainloop()
 
