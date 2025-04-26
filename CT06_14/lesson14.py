@@ -30,6 +30,8 @@ import turtle
 
 window =turtle.Screen()
 
+t
+
 t.seth(0)
 
 window.mainloop()
