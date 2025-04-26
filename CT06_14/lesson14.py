@@ -50,7 +50,7 @@ print("Hello from lesson 14")
 
 # window.mainloop()
 
-# import turtle
+import turtle
 
 window =turtle.Screen()
 
