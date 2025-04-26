@@ -67,7 +67,8 @@ for item in pizza_toppings:
     print(str(i) + "." + item)
     i += 1
 
-while True
+while True:
+    user_input= input
 
 
 
