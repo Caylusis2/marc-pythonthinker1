@@ -112,6 +112,7 @@ for item in planets:
 
 word = "hello"
 word = "hello 1"
+word = word * 2
 
 
 
