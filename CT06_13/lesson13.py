@@ -54,11 +54,11 @@
 
 # print(groceries)
 
-# pizza_toppings= [
-#     "Mushrooms",
-#     "Pepperoni",
-#     "Pineapple"
-# ]
+pizza_toppings= [
+    "Mushrooms",
+    "Pepperoni",
+    "Pineapple"
+]
 
 user_toppings= []
 
