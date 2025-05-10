@@ -125,7 +125,7 @@ maximum = int(input("Give me a number much larger than the last one: "))
 
 randomNumber = random.randint(minimum, maximum)
 
-print("Given a range from " + minimum + "to")
+print("Given a range from " + minimum + " to " + maximum)
               
 
 
