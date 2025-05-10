@@ -129,6 +129,8 @@
 # print("The random number generated is " + randomNumber)
 
 print("hello")
+
+row = []
               
 
 
