@@ -43,7 +43,11 @@
 # Write your code here
 
 
+num = 10
 
+while num < 200:
+    num += 10
+    print(num)
 
 
 ###################################################
