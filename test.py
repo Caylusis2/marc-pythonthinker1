@@ -123,7 +123,7 @@ import random
 minimum = int(input("Give me a small number: "))
 maximum = int(input("Give me a number much larger than the last one: "))
 
-randomNumber = random.randint
+randomNumber = random.randint(minimum,maximum)
               
 
 
