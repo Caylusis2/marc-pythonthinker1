@@ -120,7 +120,8 @@
 
 import random
 
-minimum =int(input("Give me a small number: ")
+minimum = int(input("Give me a small number: "))
+maximum = int(input)
 
 
 
