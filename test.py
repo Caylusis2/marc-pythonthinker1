@@ -43,11 +43,11 @@
 # Write your code here
 
 
-num = 0
+# num = 0
 
-while num < 200:
-    num += 10
-    print(num)
+# while num < 200:
+#     num += 10
+#     print(num)
 
 
 ###################################################
@@ -62,13 +62,13 @@ while num < 200:
 
 # Write your code here
 
-password = "superpass123"
-user_answer = input("Enter the password")
+# password = "superpass123"
+# user_answer = input("Enter the password")
 
-if user_answer == password:
-    print("Access Granted")
-else:
-    print("Access Denied")
+# if user_answer == password:
+#     print("Access Granted")
+# else:
+#     print("Access Denied")
 
 # Basic List Functions
 # Do the following operations to the list provided below
