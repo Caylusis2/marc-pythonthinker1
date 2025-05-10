@@ -107,8 +107,8 @@ print(planets)
 # 5. Using a for loop, print all the planets 
 #    from this list one by one.
 
-for i in range("mercury","venus", "earth", "mars", "jupiter", "saturn", "uranus")
-    print()
+for i in range("mercury","venus", "earth", "mars", "jupiter", "saturn", "uranus"):
+    print(i)
 
 
 
