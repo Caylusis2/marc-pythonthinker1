@@ -58,7 +58,8 @@
 
 # Write your code here
 
-while i = 200:
+i = 200
+
 
     
 
