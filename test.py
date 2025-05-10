@@ -62,7 +62,7 @@ num = 200
 
 while num < 200:
     num += 10
-    
+    print(num)
 
 
 
