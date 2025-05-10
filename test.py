@@ -110,10 +110,12 @@
 # for item in planets:
 #     print(item)
 
-word = "hello"
-word = "hello 1 "
-word = word * 2
-print(word)
+# word = "hello"
+# word = "hello 1 "
+# word = word * 2
+# print(word)
+
+name = input()
 
 
 
