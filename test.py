@@ -59,7 +59,7 @@
 # Write your code here
 
 while i in range:
-    (1,)
+    (10,10,200)
 
 
 
