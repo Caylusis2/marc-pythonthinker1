@@ -139,6 +139,8 @@ if name == "john:":
     print ("hi john")
 else:
     print("I don't know you")
+
+correct = False
     
               
 
