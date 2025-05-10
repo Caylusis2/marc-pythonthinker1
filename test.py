@@ -131,7 +131,7 @@
 print("hello")
 
 row = ["Emily", "Keith", "Nadia", "Paul"]
-
+row.insert(2, )
               
 
 
