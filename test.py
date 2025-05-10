@@ -115,8 +115,10 @@
 # word = word * 2
 # print(word)
 
-import random
-random.randint(1, 100)
+# import random
+# random.randint(1, 100)
+
+
 
 
 
