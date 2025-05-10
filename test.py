@@ -118,15 +118,15 @@
 # import random
 # random.randint(1, 100)
 
-import random
+# import random
 
-minimum = int(input("Give me a small number: "))
-maximum = int(input("Give me a number much larger than the last one: "))
+# minimum = int(input("Give me a small number: "))
+# maximum = int(input("Give me a number much larger than the last one: "))
 
-randomNumber = random.randint(minimum, maximum)
+# randomNumber = random.randint(minimum, maximum)
 
-print("Given a range from " + minimum + " to " + maximum + ": ")
-print("The random number generated is " + randomNumber)
+# print("Given a range from " + minimum + " to " + maximum + ": ")
+# print("The random number generated is " + randomNumber)
 
 print("hello")
               
