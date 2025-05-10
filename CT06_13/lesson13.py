@@ -78,7 +78,7 @@ for item in pizza_toppings:
 for item in user_toppings:
     print(item)
 
-import turtle
+
 
 
 
