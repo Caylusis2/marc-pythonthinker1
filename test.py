@@ -66,7 +66,8 @@ password = "superpass123"
 user_answer = input("Enter the password")
 
 if user_answer == password:
-    print()
+    print("Access Granted")
+    
 
 
 
