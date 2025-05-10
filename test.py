@@ -115,7 +115,8 @@
 # word = word * 2
 # print(word)
 
-name = input()
+name = input("who is there? ")
+
 
 
 
