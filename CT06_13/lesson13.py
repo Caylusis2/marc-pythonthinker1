@@ -62,18 +62,18 @@
 
 user_toppings= []
 
-# i= 1
-# for item in pizza_toppings:
-#     print(str(i) + "." + item)
-#     i += 1
+i= 1
+for item in pizza_toppings:
+    print(str(i) + "." + item)
+    i += 1
 
-# while True:
-#     user_input= input("What topping do you want? Type end to end. Give me the number:")
+while True:
+    user_input= input("What topping do you want? Type end to end. Give me the number:")
 
-#     if user_input == "end":
-#         break
-#     else:
-#         user_toppings.append(pizza_toppings[int(user_input)-1])
+    if user_input == "end":
+        break
+    else:
+        user_toppings.append(pizza_toppings[int(user_input)-1])
 
 for item in user_toppings:
     print(item)
