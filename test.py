@@ -58,10 +58,9 @@
 
 # Write your code here
 
-while i in range:
-    (10,10,200)
+while i = 200:
 
-print(i)
+    
 
 
 
