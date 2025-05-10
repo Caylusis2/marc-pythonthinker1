@@ -128,7 +128,7 @@ randomNumber = random.randint(minimum, maximum)
 print("Given a range from " + minimum + " to " + maximum + ": ")
 print("The random number generated is " + randomNumber)
 
-print
+print("hello")
               
 
 
