@@ -134,7 +134,7 @@ row = ["Emily", "Keith", "Nadia", "Paul"]
 row.insert(2, "Preeti")
 print(row)
 
-name = input()
+name = input("who is there? ")
               
 
 
