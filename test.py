@@ -58,7 +58,8 @@
 
 # Write your code here
 
-
+while i in range:
+    (1,)
 
 
 
