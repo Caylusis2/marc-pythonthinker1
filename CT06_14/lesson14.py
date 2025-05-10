@@ -1,4 +1,4 @@
-print("Hello from lesson 14")
+# print("Hello from lesson 14")
 
 # import turtle
 
