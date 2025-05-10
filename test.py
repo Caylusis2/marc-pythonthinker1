@@ -107,8 +107,6 @@ print(planets)
 # 5. Using a for loop, print all the planets 
 #    from this list one by one.
 
-for i in range():
-    print(i)
 
 for item in planets:
     print(item)
