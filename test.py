@@ -120,7 +120,7 @@
 
 import random
 
-minimum =int(input)
+minimum =int(input("Give me a small number: ")
 
 
 
