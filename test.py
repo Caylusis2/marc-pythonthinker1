@@ -120,6 +120,8 @@
 
 import random
 
+minimum =int(input)
+
 
 
 
