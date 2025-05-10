@@ -121,7 +121,9 @@
 import random
 
 minimum = int(input("Give me a small number: "))
-maximum = int(input)
+maximum = int(input("Give me a number much larger than the last one: "))
+
+              
 
 
 
