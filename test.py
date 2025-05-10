@@ -110,6 +110,7 @@ print(planets)
 for item in planets:
     print(item)
 
+word
 
 
 
