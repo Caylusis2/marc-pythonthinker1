@@ -62,7 +62,7 @@ while num < 200:
 
 # Write your code here
 
-password = strsuperpass123
+password = superpass123
 
 
 
