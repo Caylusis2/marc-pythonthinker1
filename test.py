@@ -94,7 +94,7 @@ print(planets)
 
 planets[3] = "muskworld"
 
-print(plantes)
+print(planets)
 
 
 # 4. Remove uranus from this list.
