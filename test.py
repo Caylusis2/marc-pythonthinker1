@@ -43,7 +43,7 @@
 # Write your code here
 
 
-num = 10
+num = 0
 
 while num < 200:
     num += 10
