@@ -110,6 +110,9 @@ print(planets)
 for i in range():
     print(i)
 
+for item in planets:
+    print(item)
+
 
 
 
