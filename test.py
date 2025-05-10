@@ -61,6 +61,8 @@
 while i in range:
     (10,10,200)
 
+print(i)
+
 
 
 
