@@ -58,7 +58,10 @@
 
 # Write your code here
 
-i = 200
+num = 200
+
+while num < 200:
+
 
 
     
