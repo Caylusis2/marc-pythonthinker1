@@ -141,6 +141,11 @@
 #     print("I don't know you")
 
 # correct = False
+
+import turtle 
+for counter in range(6):
+    for sides in range(3):
+        turtle .f
     
               
 
