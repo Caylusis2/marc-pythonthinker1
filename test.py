@@ -128,17 +128,17 @@
 # print("Given a range from " + minimum + " to " + maximum + ": ")
 # print("The random number generated is " + randomNumber)
 
-print("hello")
+# print("hello")
 
-row = ["Emily", "Keith", "Nadia", "Paul"]
-row.insert(2, "Preeti")
-print(row)
+# row = ["Emily", "Keith", "Nadia", "Paul"]
+# row.insert(2, "Preeti")
+# print(row)
 
 name = input("who is there? ")
 if name == "john:":
     print ("hi john")
 else:
-    print("")
+    print("I don't know you")
     
               
 
