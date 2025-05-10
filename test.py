@@ -135,6 +135,9 @@ row.insert(2, "Preeti")
 print(row)
 
 name = input("who is there? ")
+if name == "john:":
+    
+    
               
 
 
