@@ -30,8 +30,8 @@ def square(num):
     return num*num
 print(square(5))
 
-def sum_of_squares(num):
-    return square(num) + (num*num)
+def sum_of_squares(num1, num2):
+    return square(num1) + (num*num)
 print(sum_of_squares(5,7))
     
 
