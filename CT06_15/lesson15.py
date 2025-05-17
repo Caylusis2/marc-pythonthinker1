@@ -31,7 +31,7 @@ def square(num):
 print(square(5))
 
 def sum_of_squares(num):
-    return (num*num) + (num*num)
+    return + (num*num)
 print(sum_of_squares(5,7))
     
 
