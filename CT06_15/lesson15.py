@@ -16,7 +16,8 @@ def increment_counter():
     counter += 1
 
 increment_counter()
-increment+
+increment_counter()
+increment_ counter()
 
 
 
