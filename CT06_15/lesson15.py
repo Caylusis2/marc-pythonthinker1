@@ -2,5 +2,5 @@ print("Hello from lesson 15")
 
 import turtle 
 
-turtle.screen
+turtle.Screen()
 
