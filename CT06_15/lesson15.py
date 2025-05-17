@@ -18,7 +18,9 @@ def isEven(num):
 numbers = [1, 8, 13, 71, 36, 43]
 
 for n in numbers:
-    isEven(n)
+    if isEven(n):
+        
+    
 
 
 
