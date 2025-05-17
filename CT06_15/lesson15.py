@@ -5,17 +5,10 @@
 # turtle.Screen()
 
 # def drawSquare():
-#     for i in range():
+#     for i in range(4):
 
-import turtle
 
-window =turtle.Screen()
 
-t =turtle.Turtle()
-
-draw_square()
-
-window.mainloop()
 
 
 
