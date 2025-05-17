@@ -12,16 +12,19 @@
 
 # print(counter)
 
-def isEven(num):
-    return num % 2 == 0
+def greet(name):
+    return
 
-numbers = [1, 8, 13, 71, 36, 43]
+# def isEven(num):
+#     return num % 2 == 0
 
-for n in numbers:
-    if isEven(n):
-        print(str(n) + " is an even number")
-    else:
-        print(str(n) + " is an odd number")
+# numbers = [1, 8, 13, 71, 36, 43]
+
+# for n in numbers:
+#     if isEven(n):
+#         print(str(n) + " is an even number")
+#     else:
+#         print(str(n) + " is an odd number")
     
 
 
