@@ -29,6 +29,9 @@ def greet(name):
 def square(num):
     return num*num
 print(square(5))
+
+def sum_of_squares(num):
+    return Mum
     
 
 
