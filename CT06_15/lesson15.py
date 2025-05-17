@@ -19,6 +19,8 @@ increment_counter()
 increment_counter()
 increment_counter()
 
+print(counter)
+
 
 
 
