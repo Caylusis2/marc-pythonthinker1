@@ -28,6 +28,7 @@ def greet(name):
 
 def square(num):
     return num*num
+square(5)
     
 
 
