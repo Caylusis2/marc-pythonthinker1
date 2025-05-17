@@ -13,7 +13,7 @@ window =turtle.Screen()
 
 t =turtle.Turtle()
 
-
+draw_square()
 
 window.mainloop()
 
