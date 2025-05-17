@@ -17,7 +17,7 @@ def increment_counter():
 
 increment_counter()
 increment_counter()
-increment_ counter()
+increment_counter()
 
 
 
