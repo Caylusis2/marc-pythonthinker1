@@ -15,6 +15,7 @@ t =turtle.Turtle()
 
 
 
+window.mainloop()
 
 
 
