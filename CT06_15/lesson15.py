@@ -1,16 +1,5 @@
 # print("Hello from lesson 15")
 
-# import turtle 
-
-# turtle.Screen()
-
-# def drawSquare():
-#     for i in range(4):
-
-window.mainloop()
-
-
-
 counter = 0
 
 def increment_counter():
