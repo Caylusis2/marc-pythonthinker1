@@ -7,6 +7,13 @@
 # def drawSquare():
 #     for i in range():
 
+import turtle
+
+window =turtle.Screen()
+
+t =turtle.Turtle()
+
+
 
 
 
