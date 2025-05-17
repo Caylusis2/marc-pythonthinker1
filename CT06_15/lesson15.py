@@ -25,6 +25,9 @@ def greet(name):
 #         print(str(n) + " is an even number")
 #     else:
 #         print(str(n) + " is an odd number")
+
+def square(num):
+    return 
     
 
 
