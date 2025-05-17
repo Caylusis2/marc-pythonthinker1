@@ -1,18 +1,20 @@
 # print("Hello from lesson 15")
 
-counter = 0
+# counter = 0
 
-def increment_counter():
-    global counter
-    counter += 1
+# def increment_counter():
+#     global counter
+#     counter += 1
 
-increment_counter()
-increment_counter()
-increment_counter()
+# increment_counter()
+# increment_counter()
+# increment_counter()
 
-print(counter)
+# print(counter)
 
-import turtle 
+def isEven(num):
+    return 
+
 
 
 
