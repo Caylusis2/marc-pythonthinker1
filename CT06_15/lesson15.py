@@ -21,7 +21,7 @@ for n in numbers:
     if isEven(n):
         print(str(n) + " is an even number")
     else:
-        print(n) + " is"
+        printstr(n) + " is an odd number"
     
 
 
