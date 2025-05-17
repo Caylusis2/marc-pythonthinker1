@@ -13,7 +13,7 @@
 # print(counter)
 
 def isEven(num):
-    return 
+    return num % 2 == 0
 
 
 
