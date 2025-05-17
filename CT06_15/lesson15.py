@@ -15,7 +15,8 @@ def increment_counter():
     global counter
     counter += 1
 
-increment
+increment_counter()
+increment+
 
 
 
