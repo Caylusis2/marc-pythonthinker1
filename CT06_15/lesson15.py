@@ -15,7 +15,9 @@
 def isEven(num):
     return num % 2 == 0
 
-numbers = [1, 8, 13, 71, 36, ]
+numbers = [1, 8, 13, 71, 36, 43]
+
+
 
 
 
