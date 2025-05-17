@@ -27,7 +27,7 @@ def greet(name):
 #         print(str(n) + " is an odd number")
 
 def square(num):
-    return 
+    return num*num
     
 
 
