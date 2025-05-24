@@ -11,7 +11,7 @@ import turtle
 
 def setup_screen(screenWidth, screenHeight):
     window = turtle.Screen()
-    window.setup(Screen)
+    window.setup(screenWidth, screenHeight)
 
 
 window.mainloop()
