@@ -50,6 +50,6 @@ while True:
     if check_x(ball, screenWidth):
         dx *= -1
     if check_y(ball, screenHeight):
-        dy 
+        dy *= -1
 
 screen.mainloop()
