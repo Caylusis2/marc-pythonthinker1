@@ -9,6 +9,7 @@ print("Hello from lesson 16")
 
 # drawShape(100, 4)
 
+import turtle
 
 def setup_screen(screenWidth, screenHeight):
     screen = turtle.Screen()
