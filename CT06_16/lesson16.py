@@ -24,7 +24,7 @@ def create_blue_ball():
     return ball
 
 def move_ball(ball, dx, dy):
-    ball.setx(ball.xcor)
+    ball.setx(ball.xcor() + )
 
 screenWidth = 300
 screenHeight = 500
