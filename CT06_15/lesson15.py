@@ -12,27 +12,27 @@
 
 # print(counter)
 
-def greet(name):
-    return 
+# def greet(name):
+#     return 
 
-# def isEven(num):
-#     return num % 2 == 0
+# # def isEven(num):
+# #     return num % 2 == 0
 
-# numbers = [1, 8, 13, 71, 36, 43]
+# # numbers = [1, 8, 13, 71, 36, 43]
 
-# for n in numbers:
-#     if isEven(n):
-#         print(str(n) + " is an even number")
-#     else:
-#         print(str(n) + " is an odd number")
+# # for n in numbers:
+# #     if isEven(n):
+# #         print(str(n) + " is an even number")
+# #     else:
+# #         print(str(n) + " is an odd number")
 
-def square(num):
-    return num*num
-print(square(5))
+# def square(num):
+#     return num*num
+# print(square(5))
 
-def sum_of_squares(num1, num2):
-    return square(num1) + (num2)
-print(sum_of_squares(5,7))
+# def sum_of_squares(num1, num2):
+#     return square(num1) + (num2)
+# print(sum_of_squares(5,7))
     
 
 
