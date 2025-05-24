@@ -20,7 +20,7 @@ def create_blue_ball():
     ball = turtle.Turtle()
     ball.shape("circle")
     ball.color("blue")
-    ba
+    ball.penup()
 
 screenWidth = 300
 screenHeight = 500
