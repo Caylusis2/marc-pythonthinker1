@@ -33,7 +33,7 @@ def check_x(ball, screenWidth):
     
 def check_y(ball, screenHeight):
     if ball.ycor() > (screenHeight/2) or ball.ycor() < (-screenHeight/2):
-        
+        return True
 
 
 dx = 2
@@ -49,5 +49,6 @@ while True:
     move_ball(ball, dx, dy)
     if check_x(ball, screenWidth):
         dx *= -1
+    
 
 screen.mainloop()
