@@ -28,7 +28,7 @@ def move_ball(ball, dx, dy):
     ball.sety(ball.ycor() + dy)
 
 dx = 30
-dy = 10
+dy = 30
 
 screenWidth = 300
 screenHeight = 500
