@@ -39,6 +39,6 @@ screen = setup_screen(screenWidth, screenHeight)
 ball = create_blue_ball()
 
 while True:
-    move
+    move_ball(ball, dx, dy)
 
 screen.mainloop()
