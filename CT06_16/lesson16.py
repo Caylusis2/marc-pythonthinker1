@@ -30,6 +30,8 @@ def move_ball(ball, dx, dy):
 dx = 30
 dy = 30
 
+
+
 screenWidth = 300
 screenHeight = 500
 screen = setup_screen(screenWidth, screenHeight)
