@@ -10,9 +10,10 @@ import turtle
 # drawShape(100, 4)
 
 
-
-window = turtle.Screen()
+def setup_screen(screenWidth, screenHeight):
+    window = turtle.Screen()
 window.setup(screenWidth, screenHeight)
 
+ 
 
 window.mainloop()
