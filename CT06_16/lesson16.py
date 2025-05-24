@@ -16,8 +16,8 @@ def setup_screen(screenWidth, screenHeight):
     return screen
 
 screenWidth = 300
-screen
-
+screenHeight = 500
+screen = setup_screen
  
 
 window.mainloop()
