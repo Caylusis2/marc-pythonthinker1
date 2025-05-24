@@ -23,6 +23,9 @@ def create_blue_ball():
     ball.penup()
     return ball
 
+def move_ball(ball, dx, dy):
+    ball
+
 screenWidth = 300
 screenHeight = 500
 screen = setup_screen(screenWidth, screenHeight)
