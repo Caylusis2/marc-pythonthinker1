@@ -2,9 +2,6 @@ print("Hello from lesson 16")
 
 import turtle
 
-window = turtle.Screen()
-t = turtle.Turtle()
-
 # def drawShape(length, num_sides):
 #     for i in range(num_sides):
 #         t.forward(length)
@@ -12,6 +9,8 @@ t = turtle.Turtle()
 
 # drawShape(100, 4)
 
+def setup_screen(screenWidth, screenHeight):
+    window = turtle.Screen()
 
 
 window.mainloop()
