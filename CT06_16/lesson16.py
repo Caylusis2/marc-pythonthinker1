@@ -36,8 +36,8 @@ def check_y(ball, screenHeight):
         return True
 
 
-dx = 5
-dy = 5
+dx = 10
+dy = 10
 
 screenWidth = 300
 screenHeight = 500
