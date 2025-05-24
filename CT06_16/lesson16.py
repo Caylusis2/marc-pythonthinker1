@@ -30,7 +30,8 @@ def move_ball(ball, dx, dy):
 dx = 30
 dy = 30
 
-
+while True:
+    move_ball
 
 screenWidth = 300
 screenHeight = 500
